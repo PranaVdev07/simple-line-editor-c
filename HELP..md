@@ -69,3 +69,11 @@ Example:
 q
 
 Exits the line editor.
+## Team Testing
+
+The editor was tested for:
+- Inserting lines
+- Deleting lines
+- Displaying the document
+- Invalid line numbers
+- Empty documents
