@@ -2,8 +2,8 @@
 
 ## Team Members
 
-1. YOUR NAME
-2. YOUR FRIEND'S NAME
+1. Pranav Pandey
+2. Mitarth Rai
 
 ## Project Description
 
